@@ -1,3 +1,0 @@
-将chinese.ptl文件复制到安装目录下的languages中即可
-
-C:\Program Files\Packet Tracer 5.3\languages
