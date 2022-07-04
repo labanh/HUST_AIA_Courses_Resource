@@ -1,4 +1,8 @@
 # HUST_AIA_Courses_Resource
+
+Updating
+■■■■■■□□□□□□□□□□□□□
+
 这个repo包含了2019-2022三年在A院所学课程的资源
 
 包括
